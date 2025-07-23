@@ -1,0 +1,10 @@
+{
+  "KEY-ABC-123": {
+    "hwid": null,
+    "created_at": "2025-07-23"
+  },
+  "KEY-XYZ-456": {
+    "hwid": "ABC123-HWID-VALUE",
+    "created_at": "2025-07-22"
+  }
+}
